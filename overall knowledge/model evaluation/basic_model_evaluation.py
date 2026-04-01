@@ -187,4 +187,3 @@ _rmse_value = np.sqrt(_mse_value)
 #
 # Lower values of RMSE indicate a better fit of the model to the data.
 # An RMSE of 0 means the model made perfect predictions for every observation in the dataset.
-
