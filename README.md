@@ -6,7 +6,7 @@
 
 
 ## Education
-* **National Senior Certificate (NSC)
+* **National Senior Certificate (NSC)**
 
 ## Core Tech Competencies
 
