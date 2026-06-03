@@ -24,8 +24,7 @@
 
 * **DevOps & Security:** Managing secure cloud hosting, user sessions, and localized testing environments.
 
---- ## Professional History
-
+## Professional History
 ### Retail Professional (5 Years)
 
 * **Customer Experience & Engagement:** Delivered high-quality customer service, managing client inquiries, resolving conflicts, and maintaining a welcoming, professional retail environment.
