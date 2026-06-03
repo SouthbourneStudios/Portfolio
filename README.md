@@ -2,11 +2,11 @@
 
 # AI-Enhanced Full-Stack Developer
 
-**Email:** pracsolo@gmail.com  | **Cell:** +27 842812487  | **Portfolio:** [github.com/SouthbourneStudios](https://github.com/SouthbourneStudios) 
+**Email:** southbournestudios@gmail.com  | **Cell:** +27 842812487  | **Portfolio:** [github.com/SouthbourneStudios](https://github.com/SouthbourneStudios) 
 
 
 ## Education
-* **National Senior Certificate (NSC)**
+* **National Senior Certificate (NSC)
 
 ## Core Tech Competencies
 
@@ -24,7 +24,8 @@
 
 * **DevOps & Security:** Managing secure cloud hosting, user sessions, and localized testing environments.
 
-## Professional History
+--- ## Professional History
+
 ### Retail Professional (5 Years)
 
 * **Customer Experience & Engagement:** Delivered high-quality customer service, managing client inquiries, resolving conflicts, and maintaining a welcoming, professional retail environment.
