@@ -53,8 +53,8 @@
 
 ### Full-Stack Development
 
-- **Restaurant Site:** a polished restaurant web presence — menu, bookings, and a fast, modern online home ready for real customers. (Next.js / React / TypeScript / Tailwind CSS)
-- **Futsurf — Football Analytics App:** interactive dashboard with dynamic filtering, metrics panels, and a visual paywall restricting premium features. (Python / Django / REST APIs)
+- **Restaurant Site:** a polished restaurant web presence — menu, bookings, and a fast, modern online home ready for real customers. (Next.js / React / TypeScript / Tailwind CSS) — [Live](https://project-resturant-portfolio.onrender.com/)
+- **Futsurf — Football Analytics App:** interactive dashboard with dynamic filtering, metrics panels, and a visual paywall restricting premium features. (Python / Django / REST APIs) — [Live](https://www.futsurf.co.za/)
 
 ### Data Engineering & Security Architectures
 
