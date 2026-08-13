@@ -78,6 +78,6 @@
 
 <div align="center">
 
-Built with `opencode` + `AGENTS.md` · © 2026 Mustafa Mohamud
+© 2026 Mustafa Mohamud
 
 </div>
