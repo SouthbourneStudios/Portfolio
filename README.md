@@ -16,13 +16,13 @@
 
 ## Core Competencies
 
-- **Web & Application Development:** designing interactive dashboards and front-end architectures.
-- **AI-Assisted / Agentic Development:** fluent with `opencode` and `AGENTS.md` — using AI agents to scaffold, refactor, and ship features.
-- **Data Engineering & Automation:** building background automation and web-scraping systems.
-- **Financial & Subscription Systems:** integrating multi-tier billing models.
+- **Web & Application Development:** Designing interactive dashboards and front-end architectures.
+- **AI-Assisted / Agentic Development:** Fluent with `opencode` and `AGENTS.md` — using AI agents to scaffold, refactor, and ship features.
+- **Data Engineering & Automation:** Building background automation and web-scraping systems.
+- **Financial & Subscription Systems:** Integrating multi-tier billing models.
 
-- **Cloud & Database Architecture:** designing relational databases and implementing access-control security.
-- **DevOps & Security:** managing secure cloud hosting, user sessions, and localized testing environments.
+- **Cloud & Database Architecture:** Designing relational databases and implementing access-control security.
+- **DevOps & Security:** Managing secure cloud hosting, user sessions, and localized testing environments.
 
 ## Skills & Stack
 
@@ -40,6 +40,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### AI-Assisted / Agentic Dev
 
@@ -48,32 +50,37 @@
 
 ## Background
 
-- **Retail (5 years):** customer service, point-of-sale and cash handling, inventory and stock control.
+- **Retail (5+ years):**
+    - Client & Stakeholder Management: Leveraged strong communication skills to solve customer pain points, navigate high-volume retail environments, and maintain exceptional service standards.  
+    
+    - Operations & POS Systems: Handled daily point-of-sale transactions, financial reconciliations, and cash float auditing with strict accuracy.  
+    
+    - Inventory & Data Accuracy: Managed stock tracking, inventory audits, and supply replenishment, gaining first-hand insight into commercial inventory lifecycles and business workflows. 
 
 ## Technical Experience & Projects
 
 ### Full-Stack Development
 
-- **Restaurant Site:** a polished restaurant web presence — menu, bookings, and a fast, modern online home ready for real customers. (Next.js / React / TypeScript / Tailwind CSS) — [Live](https://project-resturant-portfolio.onrender.com/)
+- **Restaurant Site:** a Polished restaurant web presence — menu, bookings, and a fast, modern online home ready for real customers. (Next.js / React / TypeScript / Tailwind CSS) — [Live](https://project-resturant-portfolio.onrender.com/)
 - **Futsurf — Football Analytics App:** interactive dashboard with dynamic filtering, metrics panels, and a visual paywall restricting premium features. (Python / Django / REST APIs) — [Live](https://www.futsurf.co.za/)
 
 ### Data Engineering & Security Architectures
 
-- **Automated Data Collection:** built a web-scraping pipeline that gathers external data without triggering platform blocks or firewall restrictions.
-- **Data Metrics & Modeling:** created filters that clean raw web data and apply mathematical models to track live match-performance trends over time.
-- **Hybrid Application Architecture:** engineered a split platform where user interactions run on the front-end while security validations are handled by a lightweight server framework.
-- **Anti-Tampering Security:** designed a workflow that strips pricing from client data before it reaches the server, calculating final costs server-side to prevent user manipulation.
+- **Automated Data Collection:** Engineered rate-limited web-scraping routines with dynamic proxy routing to extract external data reliably without triggering anti-bot protections.
+- **Data Metrics & Modeling:** Created filters that clean raw web data and apply mathematical models to track live match-performance trends over time.
+- **Hybrid Application Architecture:** Engineered a split platform where user interactions run on the front-end while security validations are handled by a lightweight server framework.
+- **Server-Side Validation Engine:** Designed a tamper-proof pricing workflow, enforcing server-side calculation and data sanitization to mitigate client-side payload manipulation.
 
 ### Systems & Cloud Infrastructure
 
-- **Subscription & Billing Engine:** integrated a payment gateway supporting multi-tier plans (Free, Base, Premium) with automated instant access adjustments.
-- **Modern Session Management:** implemented an encrypted, token-based login system that remembers active sessions without relying on traditional cookies.
+- **Subscription & Billing Engine:** Integrated a payment gateway supporting multi-tier plans (Free, Base, Premium) with automated instant access adjustments.
+- **Stateless Auth System:** Built a secure, token-based JWT authentication workflow with encrypted session storage, enhancing performance and security over cookie-based approaches.
 
-- **Database Privacy Controls:** modeled a relational database structure for users, products, and sales with strict privacy rules so users only access their own data.
+- **Database Privacy Controls:** Modeled a relational database structure for users, products, and sales with strict privacy rules so users only access their own data.
 
-- **System Maintenance Automation:** programmed background routines that clean up old or inactive records to maintain database performance.
+- **System Maintenance Automation:** Programmed background CRON/Celery tasks to automate database maintenance, reducing inactive record bloat and optimizing query performance.
 
-- **Secure Development Testing:** set up an encrypted connection bridge to test local code changes against remote cloud databases without risking data leaks.
+- **Secure Development Testing:** Set up an encrypted connection bridge to test local code changes against remote cloud databases without risking data leaks.
 
 ---
 
