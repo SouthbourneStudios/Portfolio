@@ -2,7 +2,7 @@
 
 # **Mustafa Mohamud**
 
-### AI-Enhanced Full-Stack Developer
+### AI-Assisted Full-Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-southbournestudios%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:southbournestudios@gmail.com)
 [![Cell](https://img.shields.io/badge/Cell-%2B27%200000000-brightgreen?style=flat-square&logo=whatsapp&logoColor=white)](tel:'+2700000000')
